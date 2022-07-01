@@ -1,0 +1,4 @@
+the idea is to be like POSTGREST for SQLITE
+        with bundled in LITESTREAM
+   and real-time support akin to SUPABASE
+         in a single container
