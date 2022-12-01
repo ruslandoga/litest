@@ -29,7 +29,7 @@ defmodule E.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:ecto_sqlite3, "~> 0.8.0"},
+      {:ecto_sqlite3, "~> 0.9.0"},
       {:plug_cowboy, "~> 2.5"},
       # TODO
       {:jason, "~> 1.3"},
